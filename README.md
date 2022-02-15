@@ -236,8 +236,8 @@ import { RectangleComponent } from './rectangle/rectangle.component';
 export class AppModule { }
 ```
 ## OUTPUT:
-
-### Home Page:
+![gitlogo](angular.jpg)
 
 
 ## Result:
+Thus the angular calculation web page is created.
